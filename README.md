@@ -53,6 +53,9 @@ FlyonUI is designed to combine the best of both worlds: the aesthetic appeal of 
 
 Under the hood, it uses the strengths of:
 
+> FlyonUI's original code is licensed under the MIT License.
+> Bundled third-party components are governed by their respective licenses as outlined in the [license page](https://github.com/themeselection/flyonui/blob/main/LICENSE) and files.
+
 - [Tailwind CSS](https://tailwindcss.com/) A utility-first CSS framework that helps you build beautiful websites with ease.
 - [daisyUI](https://daisyui.com/) adds component semantic class names to Tailwind CSS so you can make beautiful websites faster, easier and Maintainable.
 - [Preline](https://preline.co/plugins.html) JavaScript headless & fully unstyled Tailwind plugins for accessible, responsive UI. Enhance experiences with animations, transitions, and more.
